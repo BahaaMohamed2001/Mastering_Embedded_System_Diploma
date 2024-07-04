@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712969450 source:d:\mastering embedded system\unit_2_c_programming\solvedexamples\hw1solve\ex5_write_c_program_to_find_ascii_value_of_a_character\main.c
+	<stdio.h>
+	<stdlib.h>
+

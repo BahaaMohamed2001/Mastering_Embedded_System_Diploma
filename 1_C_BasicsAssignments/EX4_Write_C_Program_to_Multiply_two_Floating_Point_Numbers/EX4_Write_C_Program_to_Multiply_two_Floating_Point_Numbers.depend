@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712969074 source:d:\mastering embedded system\unit_2_c_programming\solvedexamples\hw1solve\ex4_write_c_program_to_multiply_two_floating_point_numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

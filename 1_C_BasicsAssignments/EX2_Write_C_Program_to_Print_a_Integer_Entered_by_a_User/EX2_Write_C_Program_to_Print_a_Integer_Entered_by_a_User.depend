@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712968282 source:d:\mastering embedded system\unit_2_c_programming\solvedexamples\hw1solve\ex2_write_c_program_to_print_a_integer_entered_by_a_user\main.c
+	<stdio.h>
+	<stdlib.h>
+

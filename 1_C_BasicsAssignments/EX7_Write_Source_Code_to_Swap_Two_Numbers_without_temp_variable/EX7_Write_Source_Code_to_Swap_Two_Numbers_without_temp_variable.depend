@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712983780 source:d:\mastering embedded system\unit_2_c_programming\solvedexamples\hw1solve\ex7_write_source_code_to_swap_two_numbers_without_temp_variable\main.c
+	<stdio.h>
+	<stdlib.h>
+
